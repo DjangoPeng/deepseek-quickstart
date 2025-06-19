@@ -154,6 +154,10 @@ $ nohup jupyter lab --port=8000 --NotebookApp.token='替换为你的密码' --no
 Jupyter Lab 输出的日志将会保存在 `nohup.out` 文件（已在 .gitignore中过滤）。
 
 
+### 安装 Docker 和 Docker Compose（用于 Ollama, Dify, LangBot 等私有化部署）
+
+详见文档[!Ubuntu 安装 Docker 和 Docker Compose 指南](docs/docker.md)
+
 ## 贡献
 
 贡献是使开源社区成为学习、激励和创造的惊人之处。非常感谢你所做的任何贡献。如果你有任何建议或功能请求，请先开启一个议题讨论你想要改变的内容。
