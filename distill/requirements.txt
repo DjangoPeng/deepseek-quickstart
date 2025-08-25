@@ -1,0 +1,10 @@
+datasets==3.6.0
+pandas==2.3.1
+peft==0.17.0
+timm==1.0.19
+torch==2.7.1
+torchvision==0.22.1
+transformers==4.55.2
+trl==0.21.0
+unsloth==2025.8.5
+unsloth_zoo==2025.8.4
