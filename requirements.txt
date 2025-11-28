@@ -16,6 +16,6 @@ pymilvus[model]==2.5.10
 
 # 深度学习框架 
 # GPU版本
-torch==2.7.0
+#torch==2.7.0
 # CPU版本
-# torch==2.7.0+cpu --extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.7.0+cpu --extra-index-url https://download.pytorch.org/whl/cpu
